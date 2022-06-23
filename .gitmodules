@@ -1,0 +1,3 @@
+[submodule "wine--app"]
+	path = wine--app
+	url = git@github.com:Bom-dev/wine--app.git
