@@ -1,0 +1,42 @@
+[
+    {
+        "fullName": "Kanonkop Estate Pinotage",
+        "grapeType": "Pinotage",
+        "region": "Stellenbosch, South Africa",
+        "label": "https://www.wine.com/product/images/w_1024,h_1191,c_fit,q_auto:good,fl_progressive/g2tv9mwgiknhwa3insaw.jpg"
+    },
+    {
+        "fullName": "Chappellet Signature Cabernet Sauvignon",
+        "grapeType": "Cabernet Sauvignon",
+        "region": "Napa Valley, California",
+        "label": "https://www.wine.com/product/images/w_768,h_898,c_fit,q_auto:good,fl_progressive/hniunyzazwddawi3wkq8.jpg"
+    },
+    {
+        "_id": "62b3c196256931e0c1547044",
+        "fullName": "Catena Zapata Argentino Vineyard Malbec",
+        "grapeType": "Malbec",
+        "region": "Mendoza, Argentina",
+        "label": "https://www.wine.com/product/images/w_1024,c_fit,q_auto:good,fl_progressive/arqsadblqhvcmeb5fbvb.jpg"
+    },
+    {
+        "_id": "62b3c196256931e0c1547045",
+        "fullName": "Catena Zapata Adrianna White Stones Chardonnay",
+        "grapeType": "Chardonnay",
+        "region": "Mendoza, Argentina",
+        "label": "https://www.wine.com/product/images/w_768,c_fit,q_auto:good,fl_progressive/sika2tweyxi3fstjntxr.jpg"
+    },
+    {
+        "_id": "62b3c196256931e0c154703d",
+        "fullName": "Kanonkop Paul Sauer Red Blend",
+        "grapeType": "Bordeaux Red Blends",
+        "region": "Stellenbosch, South Africa",
+        "label": "https://www.wine.com/product/images/w_768,h_961,c_fit,q_auto:good,fl_progressive/c7nqb7wjaihotncejytx.jpg"
+    },
+    {
+        "_id": "62b3c196256931e0c1547041",
+        "fullName": "Chappellet Grower Collection Calesa Vineyard Chardonnay",
+        "grapeType": "Chardonnay",
+        "region": "Sonoma County, California",
+        "label": "https://www.wine.com/product/images/w_1280,c_fit,q_auto:good,fl_progressive/qdbwku8ahi87xqwrksb0.jpg"
+    }
+]
